@@ -1,0 +1,15 @@
+html {
+background-color : rgb(255,255,159);
+color : rgb(44,4,2);
+text-align : center;
+font-family : 'Verdana', sans-serif;
+list-style-position : inside;
+}
+h1, h2, h3, h4 {
+color : rgb(44,4,2);
+font-family : 'Tahoma', sans-serif;
+}
+p#mission {
+font-style : italic;
+color : rgb(44,4,2);
+}
